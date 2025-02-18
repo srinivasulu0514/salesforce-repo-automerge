@@ -8,8 +8,8 @@
         <value>Welcome to our Salesforce application! We hope you have a great experience.</value>
        </labels>
     <labels>
-          <fullName>account</fullName>
-          <language>en_US</language>
+           <fullName>account</fullName>
+           <language>en_US</language>
           <protected>true</protected>
         <shortDescription>account</shortDescription>
         <value>account name - opsera</value>
