@@ -1,0 +1,23 @@
+[
+  {
+    "id": 4023,
+    "name": "CICD Option A",
+    "value": "opt_cicd_a",
+    "modified": "2026-03-06T02:24:35.643094Z",
+    "defaultValue": false
+  },
+  {
+    "id": 4024,
+    "name": "CICD Option B",
+    "value": "opt_cicd_b",
+    "modified": "2026-03-06T02:24:35.646842Z",
+    "defaultValue": false
+  },
+  {
+    "id": 4025,
+    "name": "CICD Option C",
+    "value": "opt_cicd_c",
+    "modified": "2026-03-06T02:24:35.648317Z",
+    "defaultValue": false
+  }
+]
