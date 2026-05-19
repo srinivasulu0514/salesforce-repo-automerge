@@ -1,0 +1,15 @@
+{
+  "type": "Picklist",
+  "created": "2026-02-20T20:22:00.112015Z",
+  "modified": "2026-05-16T18:10:52.147186Z",
+  "id": 6959,
+  "name": "All Types Field 2856",
+  "variableName": "allTypesField2856",
+  "description": "Field 2856 - Type: Picklist",
+  "required": false,
+  "category": "USER",
+  "lastModifiedBy": "test (API)",
+  "selectType": "single",
+  "picklistOptionType": "TEXT",
+  "dataSource": "STATIC"
+}

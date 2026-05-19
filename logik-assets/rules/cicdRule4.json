@@ -1,0 +1,19 @@
+{
+  "created": "2026-02-18T21:12:07.390952Z",
+  "modified": "2026-05-16T18:09:07.898091Z",
+  "id": 16,
+  "name": "CI Rule 4",
+  "variableName": "cicdRule4",
+  "description": "Auto-created rule 4 for CI/CD testing",
+  "status": "active",
+  "condition": {
+    "groupingType": "always",
+    "conditions": []
+  },
+  "actions": [],
+  "lastModifiedBy": "test (API)",
+  "scope": "CFG",
+  "entityIdentifier": "CFG#cicdRule4",
+  "ruleGroups": [],
+  "category": "CUSTOM"
+}

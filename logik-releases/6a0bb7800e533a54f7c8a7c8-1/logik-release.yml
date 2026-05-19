@@ -1,0 +1,42 @@
+release:
+  name: "Git2Git Merge 6a0bb7800e533a54f7c8a7c8-1"
+  version: "1.0"
+  createdAt: "2026-05-19T01:20:44Z"
+  taskId: "6a0bb7800e533a54f7c8a7c8"
+  runCount: 1
+  syncMode: "GIT_TO_GIT"
+  sourceBranches:
+    - "feature1"
+  sourceManifests:
+    - "logik-releases/6a0bb7800e533a54f7c8a7c8-1/logik-release.yml"
+
+assets:
+  fields:
+    - variableName: allTypesField2856
+      path: logik-assets/fields/allTypesField2856.json
+      format: json
+  rules:
+    - variableName: cicdRule4
+      path: logik-assets/rules/cicdRule4.json
+      format: json
+  sets:
+  blueprints:
+  config-products:
+  product-pickers:
+
+counts:
+  fields: 1
+  rules: 1
+  sets: 0
+  blueprints: 0
+  config-products: 0
+  product-pickers: 0
+  total: 2
+
+deployOrder:
+  - fields
+  - rules
+  - sets
+  - blueprints
+  - config-products
+  - product-pickers

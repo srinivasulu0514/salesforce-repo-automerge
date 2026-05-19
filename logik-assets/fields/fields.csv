@@ -1,0 +1,2 @@
+field_type,name,variableName,required,description,selectType,minValue,maxValue,stepValue,defaultValue,unitLabel,minLength,maxLength,lastModifiedBy,picklistOptionType,quantitySelectionLinked,defaultType,defaultBomType,defaultParentProduct,defaultUom,defaultPricingProductSellingModelId,defaultPricingStartDate,defaultPricingEndDate
+"PicklistField","All Types Field 2856","allTypesField2856","false","Field 2856 - Type: Picklist","single","","","","","","","","test (API)","TEXT","false","","","","","","",""
